@@ -4,6 +4,8 @@
 
 In this project, I developed and deployed a custom NFT called "Love Boat" from scratch. The process involved writing a smart contract in Solidity, integrating it with JavaScript using Ethers.js, and deploying it on the Sepolia testnet. The NFTs were minted and made viewable on OpenSea. For storage, Pinata and IPFS were used to ensure decentralized and efficient data management. This project provided a comprehensive experience in NFT development, from coding and deployment to minting and showcasing.
 
+![screenshot](Screenshot.png)
+
 ## Features
 
 - **Smart Contract Development**: Written in Solidity.
@@ -93,7 +95,6 @@ Deploy on Sepolia testnet:
 
 After minting, the NFTs can be viewed on OpenSea. Make sure to connect your wallet to the Sepolia testnet and search for your contract address.
 
-![screenshot](Screenshot.png)
 
 ## Storage
 
